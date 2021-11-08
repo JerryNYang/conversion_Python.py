@@ -1,5 +1,6 @@
 
 # Denis Inyang
+# conversion formula
 # 10.2.21
 
 celsius = float(input("Enter temperature in celsius = "))
